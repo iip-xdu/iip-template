@@ -1,3 +1,3 @@
-# templates of slides
+# Templates of Slides
 
 ![](ppt-iip.png)
