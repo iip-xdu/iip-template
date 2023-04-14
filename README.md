@@ -1,2 +1,3 @@
-# iip-template
-templates of slides
+# templates of slides
+
+![](iip_ppt.png)
