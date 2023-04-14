@@ -1,3 +1,3 @@
 # templates of slides
 
-![](iip_ppt.png)
+![](ppt-iip.png)
